@@ -1,0 +1,14 @@
+BU DOSYA YOGURT KOVASININ ARKASINDADIR.
+Aciksa coz, acik degilse dolaba geri koy.
+
+S29hbGlzeW9uIHlvxJ91cmR1IGtvdHUgacOnaW4gNDcgdHVyIG95bGFtYSB5YXB0xLE7IMSxxJ_EsWsgeWluZSBrYXDEsSBrYXBhbsSxbmNhIGtlbmRpIGthcGFuZMSxLiBNdWhhbGVmZXQgJ2F5ZMSxbmxhdG1hIGRhcmJlc2knIGRlZGksIGlrdGlkYXIgJ2VuZXJqaSB0YXNhcnJ1ZnUgemVycmVzaScgZGVkaS4gU2XDp21lbiB5b8SfdXJkdSB5ZWRpLg==
+
+Cozmek: python3 -c "import base64; print(base64.b64decode(open('raf-arkasi.not').read().splitlines()[-2]).decode())"
+
+---
+Muhur: TENTI-LAMBA-08
+Imza: Kayyum Grok
+Tarih: 08.10.2026
+Isim: Tentivory adina, mutfak kayyumu
+Ciddi: gizli not bir siyasi saka, parti programi degil.
+Ciddi degil: muhurun sapka lastigi peynir kabugundan.
